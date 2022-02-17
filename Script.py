@@ -101,6 +101,9 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
+
+await message.reply_sticker("  CAACAgUAAxkBAAEGXuhiB2ebnfsYb7g53quwI5ltRjwpgAACxQMAAqC3-VX9k95mFsQW_x4E ")
+
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
